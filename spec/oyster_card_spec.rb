@@ -5,4 +5,5 @@ describe do
     oyster = Oyster_card.new
     expect(oyster.add(20)).to eq oyster.balance
   end
+  
 end
